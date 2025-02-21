@@ -1,20 +1,20 @@
-# 🎙️ PodCastRG - Player de Podcasts
+# 🎙️ PodCastRG - Podcast Player
 
-**PodCastRG** é uma aplicação de player de podcasts idealizada pela **Rocketseat** sem fins lucrativos, desenvolvida durante a **5ª edição do NLW (Next Level Week)**. O projeto foi criado com foco em aprendizado e aperfeiçoamento de habilidades em desenvolvimento web moderno.
+**PodCastRG** is a podcast player application created by **Rocketseat** for non-profit purposes, developed during the **5th edition of NLW (Next Level Week)**. The project was designed with a focus on learning and improving modern web development skills.
 
-## 🔧 Tecnologias Utilizadas
-- ⚛️ **ReactJS:** Biblioteca JavaScript para construção de interfaces de usuário.  
-- ⚡ **Next.js:** Framework React que oferece renderização híbrida, rotas otimizadas e melhor performance.  
+## 🔧 Technologies Used
+- ⚛️ **ReactJS:** A JavaScript library for building user interfaces.  
+- ⚡ **Next.js:** A React framework that offers hybrid rendering, optimized routing, and better performance.  
 
-## 🎯 Objetivo do Projeto
-O objetivo do **PodCastRG** é proporcionar uma experiência de aprendizado prática e eficiente, aplicando as melhores práticas de desenvolvimento frontend. A aplicação permite a reprodução de podcasts de maneira simples, rápida e intuitiva.
+## 🎯 Project Objective
+The goal of **PodCastRG** is to provide a practical and efficient learning experience by applying the best frontend development practices. The application allows users to play podcasts in a simple, fast, and intuitive way.
 
-## 🚀 Funcionalidades Principais
-- 🎵 Reprodutor de podcasts com controles intuitivos  
-- 🕒 Controle de tempo de reprodução  
-- 📄 Lista de episódios com detalhes e descrição  
-- 📱 Responsividade para dispositivos móveis  
+## 🚀 Main Features
+- 🎵 Podcast player with intuitive controls  
+- 🕒 Playback time control  
+- 📄 Episode list with details and descriptions  
+- 📱 Mobile responsiveness  
 
 ---
 
-Sinta-se à vontade para explorar, estudar e contribuir com o projeto! 🚀
+Feel free to explore, study, and contribute to the project! 🚀
